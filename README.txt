@@ -1,1 +1,1 @@
-This is our first Tutorial Gateway.
+This is our first Tutorial Gateway.Threfore we have to create it more effectively.
