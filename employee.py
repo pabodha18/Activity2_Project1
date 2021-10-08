@@ -22,7 +22,7 @@ print("Print another example")
 
 emp1 = Employee('Amal bandara', 'Male', 20)
 print(emp1.company)
-print(emp1.name)  # Mike
+print(emp1.name)  # Amal bandara
 print(emp1.gender)
-print(emp1.age)  # 25
+print(emp1.age)  # 20
 emp1.func_message()
