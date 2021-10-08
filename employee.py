@@ -1,5 +1,5 @@
 class Employee:
-    company = 'Tutorial Gateway'
+    company = 'New Tutorial Gateway'
 
     def __init__(self, name, age, gender):
         self.name = name
@@ -10,7 +10,7 @@ class Employee:
         print(self.name + ' is learning Python Programming')
 
 
-emp1 = Employee('Mike Anderson', 25, 'Male')
+emp1 = Employee('Roy Anderson', 25, 'Male')
 print(emp1.company)
 print(emp1.name)  # Mike
 print(emp1.age)  # 25
